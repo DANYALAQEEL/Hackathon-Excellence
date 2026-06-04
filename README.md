@@ -1,16 +1,19 @@
 # 🎨 Hackathon Excellence: Frontend & UI/UX Showcase
 > **Engineering production-ready dashboards and complex interfaces under extreme competitive pressure.**
-
 This repository serves as a professional showcase for the frontend architectures I've designed and built during various competitive hackathons. It highlights my ability to deliver **High-Performance UIs**, **Real-time Data Visualizations**, and **Modern UI/UX** at speed.
 
 ## 🏆 Featured Hackathons
 
-### 1. Fluid Hackathon (ReFi & Tactical Dashboards)
+### 1. Entangled Hackathon 2026
+
+![Entangled Hackathon 2026 Certificate](./1780566775473_image.png)
+
+### 2. Fluid Hackathon (ReFi & Tactical Dashboards)
 - **Problem**: Visualizing complex environmental telemetry and on-chain transaction flows.
 - **Solution**: Engineered a "Tactical HUD" with contextual scaling (100% auth / 60% operational view).
 - **Core Tech**: React, Framer Motion, Tailwind, Zustand.
 
-### 2. EC-Hackathon (Production Dashboarding)
+### 3. EC-Hackathon (Production Dashboarding)
 - **Goal**: Rapidly prototyping a production-scale dashboard with live data ingestion.
 - **Highlight**: Built a modular component library for reusable dashboard widgets.
 
