@@ -6,7 +6,7 @@ This repository serves as a professional showcase for the frontend architectures
 
 ### 1. Entangled Hackathon 2026
 
-![Entangled Hackathon 2026 Certificate](./1780566775473_image.png)
+![Entangled Hackathon 2026 Certificate](./WhatsApp%20Image%202026-06-02%20at%201.30.59%20PM.jpeg)
 
 ### 2. Fluid Hackathon (ReFi & Tactical Dashboards)
 - **Problem**: Visualizing complex environmental telemetry and on-chain transaction flows.
