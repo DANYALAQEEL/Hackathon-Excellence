@@ -1,31 +1,24 @@
-# 🎨 Hackathon Excellence: Frontend & UI/UX Showcase
-> **Engineering production-ready dashboards and complex interfaces under extreme competitive pressure.**
-This repository serves as a professional showcase for the frontend architectures I've designed and built during various competitive hackathons. It highlights my ability to deliver **High-Performance UIs**, **Real-time Data Visualizations**, and **Modern UI/UX** at speed.
+# ⚡ Hackathon Excellence // Rapid Prototype Showcase
 
-## 🏆 Featured Hackathons
+[![Status](https://img.shields.io/badge/Showcase-Competitive%20Hackathons-10B981?style=for-the-badge&logo=speedtest)](https://github.com/DANYALAQEEL)
+[![Focus](https://img.shields.io/badge/Domain-UI%2FUX%20%26%20Rapid%20Prototyping-blue?style=for-the-badge)](https://github.com/DANYALAQEEL)
 
-### 1. Entangled Hackathon 2026
-
-![Entangled Hackathon 2026 Certificate](./WhatsApp%20Image%202026-06-02%20at%201.30.59%20PM.jpeg)
-
-### 2. Fluid Hackathon (ReFi & Tactical Dashboards)
-- **Problem**: Visualizing complex environmental telemetry and on-chain transaction flows.
-- **Solution**: Engineered a "Tactical HUD" with contextual scaling (100% auth / 60% operational view).
-- **Core Tech**: React, Framer Motion, Tailwind, Zustand.
-
-### 3. EC-Hackathon (Production Dashboarding)
-- **Goal**: Rapidly prototyping a production-scale dashboard with live data ingestion.
-- **Highlight**: Built a modular component library for reusable dashboard widgets.
-
-## 💎 Frontend Engineering Pillars
-- **Contextual Scaling**: Pioneered a local-zoom strategy that allows for data-dense HUDs without breaking standard browser centering.
-- **Micro-Animations**: Extensive use of Framer Motion for tactical "Tactical" feedback (impact shakes, scanlines, and digital weather effects).
-- **Performance First**: Optimized component re-rendering to handle live data streams with zero latency.
-
-## 🛠️ Technology Stack
-- **Frameworks**: React, Next.js.
-- **Styling**: TailwindCSS, Vanilla CSS, Framer Motion.
-- **State**: Zustand, Redux.
+> [!NOTE]
+> **COMPETITIVE HACKATHON SHOWCASE // ARCHIVED PROTOTYPES**  
+> A curated archive of high-velocity prototypes, frontend telemetry dashboards, and interactive user experiences engineered under 24–48 hour competitive hackathon constraints.
 
 ---
-*Technical documentation for professional portfolio showcase. Source code maintained privately.*
+
+## 🏆 Prototype Gallery & Case Studies
+
+### 1. Agritech Real-Time IoT Fleet Dashboard
+- **Stack:** React, Tailwind CSS, WebSockets, Chart.js
+- **Constraint:** 36-hour sprint
+- **Deliverable:** Multi-node farm appliance energy monitoring interface with live telemetry simulations and dynamic anomaly alerts.
+
+### 2. High-Yield Interactive FinTech UI
+- **Stack:** TypeScript, Next.js, Framer Motion
+- **Deliverable:** Real-time liquidity pool calculator and interactive risk visualization engine with zero layout shift.
+
+---
+*Maintained by [Danyal Aqeel](https://github.com/DANYALAQEEL)*
